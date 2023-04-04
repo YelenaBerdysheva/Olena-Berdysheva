@@ -97,4 +97,10 @@ p {
   p {
     font-size: 12px;
   }
+  h1 {
+    font-size: 55px;
+  }
+  h2 {
+    font-size: 35px;
+  }
 }
