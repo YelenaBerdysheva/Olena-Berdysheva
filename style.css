@@ -93,3 +93,8 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+@media (max-width: 600px) {
+  p {
+    font-size: 12px;
+  }
+}
